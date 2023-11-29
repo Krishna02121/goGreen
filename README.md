@@ -5,5 +5,3 @@
 - Includes a dark and light mode.
 - Developed for Desktop and Mobile both.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-![plants website](/preview.png)
